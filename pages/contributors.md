@@ -16,6 +16,8 @@ credits: true
 
 ### Maggie McDonald
 
-Maggie McDonald is a current graduate student in the Master of Library Science and MA in Curatorship programs at Indiana University - Bloomington. They work at the Lilly Library in the Teaching and Research Department and with the Center for Conservation at the Eskenazi Museum of Art. They’re also a multidisciplinary artist, creating personal work and taking on selected projects through their home studio, Yearning Heart Studio.
+Maggie McDonald is a multidisciplinary artist, writer, and graduate student in the Master of Library Science and MA Curatorship programs at Indiana University - Bloomington. Maggie’s work has recently been featured in Tangent Gallery, Backspace Gallery, Great Honkers, and through an artist talk titled Work and Play in Practice.
  
 Their academic and artistic interests include artists’ books, modern art, erotica, pleasure, surrealism, zines, fanfiction, fowl, and filth–an oeuvre into which John Waters’ films easily fit. They pulled this collection together because they realized that nothing like it existed while searching for fashion inspiration one fateful day. They were aided greatly in this work by their cat, coauthor, and muse, Mister Elvis Peppers.
+
+You can find them on Substack where they write the semi-weekly missive Honk!, on Instagram @aheartthatyearns, or at the library. 
