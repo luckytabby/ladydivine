@@ -14,6 +14,6 @@ credits: true
 
 ## About the Cavalcade
 
-Divine was a drag queen and key creative partner and muse of filmmaker John Waters, “the Pope of Trash”. Divine–also known as Harris Glenn Milstead out of drag–starred in nine Waters films between YEAR and YEAR. Lady Divine’s Cavalcade of Perversion is the name of Divine’s traveling show in Multiple Maniacs, a caravan of filth where “we have it all and we show it all”. Many of Divine’s iconic looks include gaudy jewelry and bold colors or prints, paired with her signature makeup and often featured in extended scenes where she promenades around town in Waters’ films.
+Divine was a drag queen and key creative partner and muse of filmmaker John Waters, “the Pope of Trash”. Divine–also known as Harris Glenn Milstead out of drag–starred in nine Waters films between 1967 and 1988. Lady Divine’s Cavalcade of Perversion is the name of Divine’s traveling show in Multiple Maniacs, a caravan of filth where “we have it all and we show it all”. Many of Divine’s iconic looks include gaudy jewelry and bold colors or prints, paired with her signature makeup and often featured in extended scenes where she promenades around town in Waters’ films.
 
-This collection is put together from screenshots of Waters' films.
+This collection is put together from screenshots of Waters’ films.
