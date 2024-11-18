@@ -20,4 +20,4 @@ Maggie McDonald is a multidisciplinary artist, writer, and graduate student in t
  
 Their academic and artistic interests include artists’ books, modern art, erotica, pleasure, surrealism, zines, fanfiction, fowl, and filth–an oeuvre into which John Waters’ films easily fit. They pulled this collection together because they realized that nothing like it existed while searching for fashion inspiration one fateful day. They were aided greatly in this work by their cat, coauthor, and muse, Mister Elvis Peppers.
 
-You can find them on Substack where they write the semi-weekly missive Honk!, on Instagram @aheartthatyearns, or at the library. 
+You can find them at maggiemcd.com, on Substack where they write the semi-weekly missive Honk!, on Instagram @aheartthatyearns, or at the library. 
