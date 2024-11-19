@@ -1,7 +1,7 @@
 ---
-title: About
+title: About Divine & Co.
 layout: about
-permalink: /about.html
+permalink: /divineandco.html
 # include CollectionBuilder info at bottom
 credits: true
 # Edit the markdown on in this file to describe your collection
