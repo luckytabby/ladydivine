@@ -1,6 +1,6 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,
 creator,Creator,,,
-film,,true,,Film
+film,Film,true,,Film
 subject,,true
 location,,true
