@@ -20,6 +20,19 @@ While there are currently many sources of information out there for those intere
 
 The name of this digital library is derived from Lady Divine’s Cavalcade of Perversion, which is Divine’s traveling show in *Multiple Maniacs*, a caravan of filth where “we have it all and we show it all”.
 
+Films included thus far:
+- Pink Flamingos
+- Female Trouble
+
+Films in progress:
+- Roman Candles
+- Eat Your Makeup
+- Mondo Trasho
+- Multiple Maniacs
+- The Diane Linkletter Story
+- Polyester
+- Hairspray
+
 ## Fair Use
 
 This collection is put together from screenshots of Waters’ films, which jives with fair use, as this is a student project featuring only very small snippets of each film.
