@@ -20,7 +20,7 @@ Many of Divine’s iconic looks–put together by another key collaborator, Van 
 
 Divine was a drag queen and key creative partner and muse of filmmaker John Waters, “the Pope of Trash”. Divine–born Harris Glenn Milstead in 1945–starred in nine Waters films between 1967 and 1988. His creative output was not limited to film, as he also performed onstage, released his own music, and worked as a hairstylist before his death in 1988.
 
-Divine is now regarded as an icon by the queer community, with notable tributes paid by stars like RuPaul and Chappell Roan.
+Divine is now regarded as an icon by the queer community, with notable tributes paid by stars like [RuPaul](https://en.wikipedia.org/wiki/Divine_Inspiration_(RuPaul's_Drag_Race)) and Chappell Roan.
 
 ### John Waters
 
