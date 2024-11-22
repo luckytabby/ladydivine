@@ -16,7 +16,7 @@ credits: true
 
 ### Maggie McDonald
 
-{% include feature/image.html objectid="/objects/maggie.png" width="75" caption="Maggie McDonald" %}
+{% include feature/image.html objectid="/objects/maggie.png" width="25" %}
 
 Maggie McDonald is a multidisciplinary artist, writer, and graduate student in the Master of Library Science and MA Curatorship programs at Indiana University - Bloomington. Maggie’s work has recently been featured in Tangent Gallery, Backspace Gallery, *Great Honkers*, and through an artist talk titled *Work and Play in Practice*.
  
@@ -25,5 +25,7 @@ Their academic and artistic interests include artists’ books, modern art, erot
 You can find them at [maggiemcd.com](https://maggiemcd.com/), on Substack where they write the semi-weekly missive [Honk!](https://honkhonkhonk.substack.com/), on Instagram [@aheartthatyearns](https://www.instagram.com/aheartthatyearns/), or at the library.
 
 ### Mister Elvis Peppers
+
+{% include feature/image.html objectid="/objects/elvis.png" width="25" %}
 
 He's a cat. He's also very good with computers.
