@@ -16,7 +16,7 @@ credits: true
 
 ### Maggie McDonald
 
-{% include feature/image.html objectid="maggie" width="75" caption="Maggie McDonald" %}
+{% include feature/image.html objectid="/objects/maggie.png" width="75" caption="Maggie McDonald" %}
 
 Maggie McDonald is a multidisciplinary artist, writer, and graduate student in the Master of Library Science and MA Curatorship programs at Indiana University - Bloomington. Maggie’s work has recently been featured in Tangent Gallery, Backspace Gallery, *Great Honkers*, and through an artist talk titled *Work and Play in Practice*.
  
