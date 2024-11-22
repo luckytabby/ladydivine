@@ -8,7 +8,7 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/dtuu8gnkecojfyolqec0.jpg" %}
+{% include feature/jumbotron.html objectid="/objects/cavalcadeHeader.png" %}
 
 {% include feature/nav-menu.html sections="Maggie McDonald;Mister Elvis Peppers" %}
 

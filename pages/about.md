@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/dtuu8gnkecojfyolqec0.jpg" %}
+{% include feature/jumbotron.html objectid="/objects/cavalcadeHeader.png" %}
 
 {% include feature/nav-menu.html sections="About the Cavalcade;Fair Use" %}
 
@@ -16,7 +16,7 @@ credits: true
 
 Lady Divine's Cavalcade of Perversion is a digital library of looks worn by Divine for various John Waters films. The Cavalcade was created both to fill a niche where no comparable resources currently reside and as a test of the CollectionBuilder framework. It is intended to celebrate and share the work and artistry of Divine, John Waters, and Van Smith. 
 
-While there are currently many sources of information out there for those interested in John Waters, Divine, or the Dreamlanders, there weren't any resources focused on fashion and visuals, which I ([Maggie](/pages/contributors.md)) found disappointing when seeking inspiration for classy looks to wear to the opera or a wedding. Thus, I began to gather screenshots of Divine for the inspiration and edification of myself and the rest of the world.
+While there are currently many sources of information out there for those interested in John Waters, Divine, or the Dreamlanders, there weren't any resources focused on fashion and visuals, which I ([Maggie](https://luckytabby.github.io/ladydivine/contributors.html#maggie-mcdonald)) found disappointing when seeking inspiration for classy looks to wear to the opera or a wedding. Thus, I began to gather screenshots of Divine for the inspiration and edification of myself and the rest of the world.
 
 The name of this digital library is derived from Lady Divine’s Cavalcade of Perversion, which is Divine’s traveling show in *Multiple Maniacs*, a caravan of filth where “we have it all and we show it all”.
 
