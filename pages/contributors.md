@@ -16,8 +16,12 @@ credits: true
 
 ### Maggie McDonald
 
-Maggie McDonald is a multidisciplinary artist, writer, and graduate student in the Master of Library Science and MA Curatorship programs at Indiana University - Bloomington. Maggie’s work has recently been featured in Tangent Gallery, Backspace Gallery, Great Honkers, and through an artist talk titled Work and Play in Practice.
+Maggie McDonald is a multidisciplinary artist, writer, and graduate student in the Master of Library Science and MA Curatorship programs at Indiana University - Bloomington. Maggie’s work has recently been featured in Tangent Gallery, Backspace Gallery, *Great Honkers*, and through an artist talk titled *Work and Play in Practice*.
  
 Their academic and artistic interests include artists’ books, modern art, erotica, pleasure, surrealism, zines, fanfiction, fowl, and filth–an oeuvre into which John Waters’ films easily fit. They pulled this collection together because they realized that nothing like it existed while searching for fashion inspiration one fateful day. They were aided greatly in this work by their cat, coauthor, and muse, Mister Elvis Peppers.
 
-You can find them at maggiemcd.com, on Substack where they write the semi-weekly missive Honk!, on Instagram @aheartthatyearns, or at the library. 
+You can find them at [maggiemcd.com](https://maggiemcd.com/), on Substack where they write the semi-weekly missive [Honk!](https://honkhonkhonk.substack.com/), on Instagram [@aheartthatyearns](https://www.instagram.com/aheartthatyearns/), or at the library.
+
+### Mister Elvis Peppers
+
+He's a cat. He's also very good with computers.
