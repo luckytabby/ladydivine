@@ -12,15 +12,19 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-## The Real-Life Cavalcade
+## About Divine & Co.
 
 ### Divine
 
 Divine was a drag queen and key creative partner and muse of John Waters. Divine–born Harris Glenn Milstead in 1945–starred in nine Waters films between 1967 and 1988. His creative output was not limited to film, as he also performed onstage, released his own music, and worked as a hairstylist before his death in 1988.
 
+Divine is now regarded as an icon by the queer community, with notable tributes paid by stars like RuPaul and Chappell Roan.
+
 ### John Waters
 
 John Waters, also known as the Pope of Trash, is a filmmaker, writer, actor, and artist born in Baltimore, Maryland, in 1946. Many of Waters' films were made with a troupe of collaborators known as the Dreamlanders, Divine among their number. Most of his early creations were filmed in and around Baltimore. Waters' work sits at the intersection of highbrow art films and low culture, and he frequently took aim at ideas of propriety and censorship, even after a gradual move into the mainstream.
+
+Waters has stepped back from filmmaking, but is still active in the arts scene
 
 ### Van Smith
 
