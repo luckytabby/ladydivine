@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/dtuu8gnkecojfyolqec0.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="Divine;John Waters;Van Smith" %}
 
 ## About Divine & Co.
 
