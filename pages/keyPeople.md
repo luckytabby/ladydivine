@@ -14,9 +14,11 @@ credits: true
 
 ## About Divine & Co.
 
+Many of Divine’s iconic looks–put together by another key collaborator, Van Smith–include gaudy jewelry and bold colors or prints, paired with what became Divine's signature makeup and often featured in extended scenes where he promenades around town in Waters’ films. 
+
 ### Divine
 
-Divine was a drag queen and key creative partner and muse of John Waters. Divine–born Harris Glenn Milstead in 1945–starred in nine Waters films between 1967 and 1988. His creative output was not limited to film, as he also performed onstage, released his own music, and worked as a hairstylist before his death in 1988.
+Divine was a drag queen and key creative partner and muse of filmmaker John Waters, “the Pope of Trash”. Divine–born Harris Glenn Milstead in 1945–starred in nine Waters films between 1967 and 1988. His creative output was not limited to film, as he also performed onstage, released his own music, and worked as a hairstylist before his death in 1988.
 
 Divine is now regarded as an icon by the queer community, with notable tributes paid by stars like RuPaul and Chappell Roan.
 
