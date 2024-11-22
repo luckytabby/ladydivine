@@ -10,4 +10,4 @@ credits: false
 
 ## Metadata Application Profile
 
-{% include feature/pdf.html objectid="/objects/cavalcadeMetadataAppProfile" width="50" %}
+{% include feature/pdf.html objectid="https://docs.google.com/document/d/1S7bYQJRxzRgXu6Dm2frQ5qUhSftmN0ZjL4YjmwJmXM0/edit?usp=sharing" width="50" %}
