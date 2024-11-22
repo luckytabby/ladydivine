@@ -14,7 +14,9 @@ credits: true
 
 ## About the Cavalcade
 
-Lady Divine's Cavalcade of Perversion is a digital library of looks worn by Divine for various John Waters films. The Cavalcade was created both to fill a niche where no comparable resources currently reside and as a test of the CollectionBuilder framework. It is intended to celebrate and share the work and artistry of Divine, John Waters, and Van Smith.
+Lady Divine's Cavalcade of Perversion is a digital library of looks worn by Divine for various John Waters films. The Cavalcade was created both to fill a niche where no comparable resources currently reside and as a test of the CollectionBuilder framework. It is intended to celebrate and share the work and artistry of Divine, John Waters, and Van Smith. 
+
+While there are currently many sources of information out there for those interested in John Waters, Divine, or the Dreamlanders, there weren't any resources focused on fashion and visuals, which I ([Maggie](/pages/contributors.md)) found disappointing when seeking inspiration for classy looks to wear to the opera or a wedding. Thus, I began to gather screenshots of Divine for the inspiration and edification of myself and the rest of the world.
 
 The name of this digital library is derived from Lady Divine’s Cavalcade of Perversion, which is Divine’s traveling show in *Multiple Maniacs*, a caravan of filth where “we have it all and we show it all”.
 
