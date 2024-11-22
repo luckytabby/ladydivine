@@ -14,8 +14,8 @@ credits: true
 
 ## About the Cavalcade
 
-Lady Divine's Cavalcade of Perversion is a digital library of looks worn by Divine for various John Waters films. The Cavalcade was created both to fill a niche within which no comparable resources currently reside and as a test of the CollectionBuilder framework. It is intended to celebrate and share the work and artistry of Divine, John Waters, and Van Smith.
+Lady Divine's Cavalcade of Perversion is a digital library of looks worn by Divine for various John Waters films. The Cavalcade was created both to fill a niche where no comparable resources currently reside and as a test of the CollectionBuilder framework. It is intended to celebrate and share the work and artistry of Divine, John Waters, and Van Smith.
 
-Divine was a drag queen and key creative partner and muse of filmmaker John Waters, “the Pope of Trash”. Divine starred in nine Waters films between 1967 and 1988. Lady Divine’s Cavalcade of Perversion is the name of Divine’s traveling show in Multiple Maniacs, a caravan of filth where “we have it all and we show it all”. Many of Divine’s iconic looks–put together by another key collaborator, Van Smith–include gaudy jewelry and bold colors or prints, paired with what became Divine's signature makeup and often featured in extended scenes where he promenades around town in Waters’ films. 
+The name of this digital library is derived from Lady Divine’s Cavalcade of Perversion, which is Divine’s traveling show in *Multiple Maniacs*, a caravan of filth where “we have it all and we show it all”. 
 
 This collection is put together from screenshots of Waters’ films, which jives with fair use, as this is a student project featuring only very small snippets of each film.
