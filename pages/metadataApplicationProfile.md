@@ -10,4 +10,4 @@ credits: false
 
 ## Metadata Application Profile
 
-{% include feature/pdf.html objectid="/objects/cavalcadeMetadataApplicationProfile" width="50" %}
+{% include feature/pdf.html objectid="/objects/cavalcadeMetadataAppProfile" width="50" %}
