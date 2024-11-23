@@ -1,16 +1,17 @@
-field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
+field,display_name,browse_link,external_link,dc_map
+title,Title,,,DCTERMS.title
+creator,Creator,,,DCTERMS.creator
+objectid,,,,DCTERMS.identifier
+date,Date Created,,,DCTERMS.date
+description,Description,,,DCTERMS.description
+subject,Subjects,true,DCTERMS.subject
+location,Location,,DCTERMS.coverage
+latitude,Latitude,,DCTERMS.coverage
+longitude,Longitude,,DCTERMS.coverage
 source,Source
-film,Film
+film,Film,,,DCTERMS.source
 identifier,Source Identifier,,
 type,Type,
-format,Format,
+format,Format,,,DCTERMS.format
 rights,Rights,
 rightsstatement,Rights Statement,,true
