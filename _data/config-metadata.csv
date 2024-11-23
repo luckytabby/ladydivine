@@ -1,7 +1,7 @@
 field,display_name,browse_link,external_link,dc_map
 title,Title,,,DCTERMS.title
 creator,Creator,,,DCTERMS.creator
-objectid,,,,DCTERMS.identifier
+objectid,,,DCTERMS.identifier
 date,Date Created,,,DCTERMS.date
 description,Description,,,DCTERMS.description
 subject,Subjects,true,DCTERMS.subject
